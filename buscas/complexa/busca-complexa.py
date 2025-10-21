@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 """
 PROJETO 3: BUSCA COMPLEXA (HILL-CLIMBING) COM VISUALIZAÇÃO GRÁFICA
 
@@ -7,7 +5,6 @@ Esta versão aprimorada destaca em vermelho as rainhas que estão se atacando,
 tornando o estado do tabuleiro e os conflitos mais fáceis de visualizar.
 """
 import random
-import time
 import numpy as np
 
 import matplotlib
