@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 """
 PROJETO 3 (ANÁLISE): BUSCA COMPLEXA - HILL-CLIMBING vs. SIMULATED ANNEALING
 """

@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 """
 PROJETO 3 (VARIAÇÃO): BUSCA COMPLEXA - SIMULATED ANNEALING
 
@@ -8,7 +6,6 @@ demonstrando uma técnica para escapar de mínimos locais.
 (Versão com parâmetros otimizados para maior taxa de sucesso)
 """
 import random
-import time
 import math
 import numpy as np
 
