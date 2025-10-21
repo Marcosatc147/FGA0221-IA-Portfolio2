@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 """
 PROJETO 4: ALGORITMO GENÉTICO
 
@@ -105,7 +103,7 @@ def algoritmo_genetico_visual(n_rainhas=8, tam_populacao=100, geracoes=500, taxa
 
         # 3. Verifica se encontrou a solução
         if melhor_fitness_geracao == max_fitness_possivel:
-            print(f"Solução encontrada na geração {geracao}!")
+            print(f"Solução encontrada na geração {geracao}")
             break
 
         # 4. Cria a próxima geração
