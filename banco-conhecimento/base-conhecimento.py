@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 """
 PROJETO 6: AGENTE BASEADO EM CONHECIMENTO - O MUNDO DE WUMPUS (VISUAL)
 
